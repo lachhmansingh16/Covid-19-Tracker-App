@@ -14,8 +14,6 @@ A comprehensive mobile application built with **Flutter** to track real-time COV
 |:---:|:---:|:---:|:---:|
 | <img src="assets/splash.png" width="200"/> | <img src="assets/world_stats.png" width="200"/> | <img src="assets/countries.png" width="200"/> | <img src="assets/detail.png" width="200"/> |
 
-*(Note: Upload your screenshots to an `assets` or `screenshots` folder in your repo and update the paths above)*
-
 ---
 
 ## ✨ Features
