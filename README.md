@@ -12,7 +12,7 @@ A comprehensive mobile application built with **Flutter** to track real-time COV
 
 | Splash Screen | World Statistics | Country List | Detail View |
 |:---:|:---:|:---:|:---:|
-| <img src="assets/splash.png" width="200"/> | <img src="assets/world_stats.png" width="200"/> | <img src="assets/countries.png" width="200"/> | <img src="assets/detail.png" width="200"/> |
+| <img src="assets/splash_screen.png" width="200"/> | <img src="assets/world_stats.png" width="200"/> | <img src="assets/country_list.png" width="200"/> | <img src="assets/detail_view.png" width="200"/> |
 
 ---
 
