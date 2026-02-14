@@ -54,4 +54,4 @@ Follow these steps to run the project locally.
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/covid-tracker.git](https://github.com/YOUR-USERNAME/covid-tracker.git)
+   git clone [https://github.com/lachhmansingh16/Covid-19-Tracker-App](https://github.com/lachhmansingh16/Covid-19-Tracker-App)
